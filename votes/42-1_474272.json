@@ -1,0 +1,569 @@
+{
+    "title": "Non-government Motion no. 206 – Establish Special Committee on the Charitable Sector, as modified – Adjournment of Debate", 
+    "votes": [
+        {
+            "name": "Andreychuk, A. Raynell", 
+            "party": "C", 
+            "province": "Saskatchewan", 
+            "vote": 1
+        }, 
+        {
+            "name": "Cools, Anne C.", 
+            "party": "ISG", 
+            "province": "Ontario", 
+            "vote": 0
+        }, 
+        {
+            "name": "Kenny, Colin", 
+            "party": "Lib.", 
+            "province": "Ontario", 
+            "vote": -1
+        }, 
+        {
+            "name": "Tkachuk, David", 
+            "party": "C", 
+            "province": "Saskatchewan", 
+            "vote": 1
+        }, 
+        {
+            "name": "Watt, Charlie", 
+            "party": "Lib.", 
+            "province": "Quebec", 
+            "vote": -1
+        }, 
+        {
+            "name": "Joyal, Serge", 
+            "party": "Lib.", 
+            "province": "Quebec", 
+            "vote": -1
+        }, 
+        {
+            "name": "Fraser, Joan", 
+            "party": "Lib.", 
+            "province": "Quebec", 
+            "vote": 0
+        }, 
+        {
+            "name": "Furey, George J.", 
+            "party": "Non-affiliated", 
+            "province": "Newfoundland and Labrador", 
+            "vote": -1
+        }, 
+        {
+            "name": "Cordy, Jane", 
+            "party": "Lib.", 
+            "province": "Nova Scotia", 
+            "vote": 0
+        }, 
+        {
+            "name": "Jaffer, Mobina S.B.", 
+            "party": "Lib.", 
+            "province": "British Columbia", 
+            "vote": -1
+        }, 
+        {
+            "name": "Day, Joseph A.", 
+            "party": "Lib.", 
+            "province": "New Brunswick", 
+            "vote": -1
+        }, 
+        {
+            "name": "Ringuette, Pierrette", 
+            "party": "ISG", 
+            "province": "New Brunswick", 
+            "vote": 0
+        }, 
+        {
+            "name": "Massicotte, Paul J.", 
+            "party": "ISG", 
+            "province": "Quebec", 
+            "vote": -1
+        }, 
+        {
+            "name": "Downe, Percy E.", 
+            "party": "Lib.", 
+            "province": "Prince Edward Island", 
+            "vote": -1
+        }, 
+        {
+            "name": "Mercer, Terry M.", 
+            "party": "Lib.", 
+            "province": "Nova Scotia", 
+            "vote": 1
+        }, 
+        {
+            "name": "Munson, Jim", 
+            "party": "Lib.", 
+            "province": "Ontario", 
+            "vote": 0
+        }, 
+        {
+            "name": "Eggleton, Art", 
+            "party": "Lib.", 
+            "province": "Ontario", 
+            "vote": 0
+        }, 
+        {
+            "name": "Dyck, Lillian Eva", 
+            "party": "Lib.", 
+            "province": "Saskatchewan", 
+            "vote": 0
+        }, 
+        {
+            "name": "Mitchell, Grant", 
+            "party": "Non-affiliated", 
+            "province": "Alberta", 
+            "vote": 0
+        }, 
+        {
+            "name": "McCoy, Elaine", 
+            "party": "ISG", 
+            "province": "Alberta", 
+            "vote": 0
+        }, 
+        {
+            "name": "Tardif, Claudette", 
+            "party": "Lib.", 
+            "province": "Alberta", 
+            "vote": -1
+        }, 
+        {
+            "name": "Dawson, Dennis", 
+            "party": "Lib.", 
+            "province": "Quebec", 
+            "vote": -1
+        }, 
+        {
+            "name": "Campbell, Larry W.", 
+            "party": "ISG", 
+            "province": "British Columbia", 
+            "vote": 0
+        }, 
+        {
+            "name": "Lovelace Nicholas, Sandra M.", 
+            "party": "Lib.", 
+            "province": "New Brunswick", 
+            "vote": -1
+        }, 
+        {
+            "name": "Manning, Fabian", 
+            "party": "C", 
+            "province": "Newfoundland and Labrador", 
+            "vote": -1
+        }, 
+        {
+            "name": "Greene, Stephen", 
+            "party": "ISG", 
+            "province": "Nova Scotia", 
+            "vote": -1
+        }, 
+        {
+            "name": "MacDonald, Michael L.", 
+            "party": "C", 
+            "province": "Nova Scotia", 
+            "vote": 1
+        }, 
+        {
+            "name": "Duffy, Michael", 
+            "party": "ISG", 
+            "province": "Prince Edward Island", 
+            "vote": 0
+        }, 
+        {
+            "name": "Mockler, Percy", 
+            "party": "C", 
+            "province": "New Brunswick", 
+            "vote": 1
+        }, 
+        {
+            "name": "Eaton, Nicole", 
+            "party": "C", 
+            "province": "Ontario", 
+            "vote": 1
+        }, 
+        {
+            "name": "Wallin, Pamela", 
+            "party": "ISG", 
+            "province": "Saskatchewan", 
+            "vote": -1
+        }, 
+        {
+            "name": "Raine, Nancy Greene", 
+            "party": "C", 
+            "province": "British Columbia", 
+            "vote": -1
+        }, 
+        {
+            "name": "Martin, Yonah", 
+            "party": "C", 
+            "province": "British Columbia", 
+            "vote": 1
+        }, 
+        {
+            "name": "Neufeld, Richard", 
+            "party": "C", 
+            "province": "British Columbia", 
+            "vote": 1
+        }, 
+        {
+            "name": "Brazeau, Patrick", 
+            "party": "ISG", 
+            "province": "Quebec", 
+            "vote": -1
+        }, 
+        {
+            "name": "Housakos, Leo", 
+            "party": "C", 
+            "province": "Quebec", 
+            "vote": -1
+        }, 
+        {
+            "name": "Carignan, Claude", 
+            "party": "C", 
+            "province": "Quebec", 
+            "vote": -1
+        }, 
+        {
+            "name": "Demers, Jacques", 
+            "party": "ISG", 
+            "province": "Quebec", 
+            "vote": -1
+        }, 
+        {
+            "name": "Frum, Linda", 
+            "party": "C", 
+            "province": "Ontario", 
+            "vote": -1
+        }, 
+        {
+            "name": "Patterson, Dennis Glen", 
+            "party": "C", 
+            "province": "Nunavut", 
+            "vote": 1
+        }, 
+        {
+            "name": "Plett, Donald Neil", 
+            "party": "C", 
+            "province": "Manitoba", 
+            "vote": 1
+        }, 
+        {
+            "name": "Seidman, Judith", 
+            "party": "C", 
+            "province": "Quebec", 
+            "vote": 1
+        }, 
+        {
+            "name": "Stewart Olsen, Carolyn", 
+            "party": "C", 
+            "province": "New Brunswick", 
+            "vote": -1
+        }, 
+        {
+            "name": "Boisvenu, Pierre-Hugues", 
+            "party": "C", 
+            "province": "Quebec", 
+            "vote": 1
+        }, 
+        {
+            "name": "Marshall, Elizabeth", 
+            "party": "C", 
+            "province": "Newfoundland and Labrador", 
+            "vote": 1
+        }, 
+        {
+            "name": "Poirier, Rose-May", 
+            "party": "C", 
+            "province": "New Brunswick", 
+            "vote": -1
+        }, 
+        {
+            "name": "Ataullahjan, Salma", 
+            "party": "C", 
+            "province": "Ontario", 
+            "vote": 1
+        }, 
+        {
+            "name": "Smith, Larry W.", 
+            "party": "C", 
+            "province": "Quebec", 
+            "vote": 1
+        }, 
+        {
+            "name": "Verner, Josée", 
+            "party": "ISG", 
+            "province": "Quebec", 
+            "vote": -1
+        }, 
+        {
+            "name": "Unger, Betty", 
+            "party": "C", 
+            "province": "Alberta", 
+            "vote": -1
+        }, 
+        {
+            "name": "Maltais, Ghislain", 
+            "party": "C", 
+            "province": "Quebec", 
+            "vote": -1
+        }, 
+        {
+            "name": "Doyle, Norman E.", 
+            "party": "C", 
+            "province": "Newfoundland and Labrador", 
+            "vote": -1
+        }, 
+        {
+            "name": "Dagenais, Jean-Guy", 
+            "party": "C", 
+            "province": "Quebec", 
+            "vote": 1
+        }, 
+        {
+            "name": "White, Vernon", 
+            "party": "C", 
+            "province": "Ontario", 
+            "vote": -1
+        }, 
+        {
+            "name": "Bellemare, Diane", 
+            "party": "Non-affiliated", 
+            "province": "Quebec", 
+            "vote": 0
+        }, 
+        {
+            "name": "Ngo, Thanh Hai", 
+            "party": "C", 
+            "province": "Ontario", 
+            "vote": 1
+        }, 
+        {
+            "name": "McInnis, Thomas J.", 
+            "party": "C", 
+            "province": "Nova Scotia", 
+            "vote": -1
+        }, 
+        {
+            "name": "McIntyre, Paul E.", 
+            "party": "C", 
+            "province": "New Brunswick", 
+            "vote": -1
+        }, 
+        {
+            "name": "Black, Douglas", 
+            "party": "ISG", 
+            "province": "Alberta", 
+            "vote": 0
+        }, 
+        {
+            "name": "Wells, David M.", 
+            "party": "C", 
+            "province": "Newfoundland and Labrador", 
+            "vote": -1
+        }, 
+        {
+            "name": "Beyak, Lynn", 
+            "party": "C", 
+            "province": "Ontario", 
+            "vote": 1
+        }, 
+        {
+            "name": "Oh, Victor", 
+            "party": "C", 
+            "province": "Ontario", 
+            "vote": 1
+        }, 
+        {
+            "name": "Batters, Denise", 
+            "party": "C", 
+            "province": "Saskatchewan", 
+            "vote": 1
+        }, 
+        {
+            "name": "Tannas, Scott", 
+            "party": "C", 
+            "province": "Alberta", 
+            "vote": 1
+        }, 
+        {
+            "name": "Harder, Peter", 
+            "party": "Non-affiliated", 
+            "province": "Ontario", 
+            "vote": 0
+        }, 
+        {
+            "name": "Gagné, Raymonde", 
+            "party": "ISG", 
+            "province": "Manitoba", 
+            "vote": 0
+        }, 
+        {
+            "name": "Lankin, Frances", 
+            "party": "ISG", 
+            "province": "Ontario", 
+            "vote": 0
+        }, 
+        {
+            "name": "Omidvar, Ratna", 
+            "party": "ISG", 
+            "province": "Ontario", 
+            "vote": 0
+        }, 
+        {
+            "name": "Petitclerc, Chantal", 
+            "party": "ISG", 
+            "province": "Quebec", 
+            "vote": 0
+        }, 
+        {
+            "name": "Pratte, André", 
+            "party": "ISG", 
+            "province": "Quebec", 
+            "vote": 0
+        }, 
+        {
+            "name": "Sinclair, Murray", 
+            "party": "ISG", 
+            "province": "Manitoba", 
+            "vote": 0
+        }, 
+        {
+            "name": "Woo, Yuen Pau", 
+            "party": "ISG", 
+            "province": "British Columbia", 
+            "vote": 0
+        }, 
+        {
+            "name": "Bovey, Patricia", 
+            "party": "ISG", 
+            "province": "Manitoba", 
+            "vote": 0
+        }, 
+        {
+            "name": "Cormier, René", 
+            "party": "ISG", 
+            "province": "New Brunswick", 
+            "vote": 0
+        }, 
+        {
+            "name": "Hartling, Nancy J.", 
+            "party": "ISG", 
+            "province": "New Brunswick", 
+            "vote": 0
+        }, 
+        {
+            "name": "Pate, Kim", 
+            "party": "ISG", 
+            "province": "Ontario", 
+            "vote": 0
+        }, 
+        {
+            "name": "Dean, Tony", 
+            "party": "ISG", 
+            "province": "Ontario", 
+            "vote": 0
+        }, 
+        {
+            "name": "Griffin, Diane F.", 
+            "party": "ISG", 
+            "province": "Prince Edward Island", 
+            "vote": -1
+        }, 
+        {
+            "name": "Bernard, Wanda Elaine Thomas", 
+            "party": "ISG", 
+            "province": "Nova Scotia", 
+            "vote": -1
+        }, 
+        {
+            "name": "Marwah, Sabi", 
+            "party": "ISG", 
+            "province": "Ontario", 
+            "vote": 0
+        }, 
+        {
+            "name": "Wetston, Howard", 
+            "party": "ISG", 
+            "province": "Ontario", 
+            "vote": -1
+        }, 
+        {
+            "name": "Moncion, Lucie", 
+            "party": "ISG", 
+            "province": "Ontario", 
+            "vote": 0
+        }, 
+        {
+            "name": "Dupuis, Renée", 
+            "party": "ISG", 
+            "province": "Quebec", 
+            "vote": -1
+        }, 
+        {
+            "name": "McPhedran, Marilou", 
+            "party": "ISG", 
+            "province": "Manitoba", 
+            "vote": -1
+        }, 
+        {
+            "name": "Boniface, Gwen", 
+            "party": "ISG", 
+            "province": "Ontario", 
+            "vote": 0
+        }, 
+        {
+            "name": "Forest, Éric", 
+            "party": "ISG", 
+            "province": "Quebec", 
+            "vote": 0
+        }, 
+        {
+            "name": "Gold, Marc", 
+            "party": "ISG", 
+            "province": "Quebec", 
+            "vote": -1
+        }, 
+        {
+            "name": "Mégie, Marie-Françoise", 
+            "party": "ISG", 
+            "province": "Quebec", 
+            "vote": 0
+        }, 
+        {
+            "name": "Saint-Germain, Raymonde", 
+            "party": "ISG", 
+            "province": "Quebec", 
+            "vote": -1
+        }, 
+        {
+            "name": "Galvez, Rosa", 
+            "party": "ISG", 
+            "province": "Quebec", 
+            "vote": -1
+        }, 
+        {
+            "name": "Christmas, Dan", 
+            "party": "ISG", 
+            "province": "Nova Scotia", 
+            "vote": -1
+        }, 
+        {
+            "name": "Richards, David", 
+            "party": "ISG", 
+            "province": "New Brunswick", 
+            "vote": -1
+        }, 
+        {
+            "name": "McCallum, Mary Jane", 
+            "party": "Non-affiliated", 
+            "province": "Manitoba", 
+            "vote": 0
+        }, 
+        {
+            "name": "Coyle, Mary", 
+            "party": "Non-affiliated", 
+            "province": "Nova Scotia", 
+            "vote": -1
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+{
+	"domain": "https://sencanada.ca",
+	"vote_list_url": "/en/in-the-chamber/votes/",
+	"session_set": ["42-1"],
+	"overwrite_found": 1
+}
